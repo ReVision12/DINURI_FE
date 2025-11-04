@@ -1,97 +1,52 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# DiNuri (디누리)
 
-# Getting Started
+> **AI Document Assistant for Seniors**  
+> “복잡한 서류, 이제 쉽게 이해하세요.”
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+---
 
-## Step 1: Start Metro
+![Grand Prize](https://img.shields.io/badge/🏆_Grand_Prize-2025_AI_Hackathon-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/🚧_Coming_Soon-in_progress-orange?style=for-the-badge)
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
+---
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+## 🏆 수상 이력
 
-```sh
-# Using npm
-npm start
+**🎖️ 2025 캡스톤 디자인 및 AI 해커톤 경진대회 — 생성형 AI 활용 분야 대상**  
+주최: **사단법인 한국컴퓨터교육학회**  
+후원: **SK Broadband · Kakao · HANCOM InSpace · AhnLab · NEXV · 영림원소프트랩 · ValiantData 외**
 
-# OR using Yarn
-yarn start
-```
+---
 
-## Step 2: Build and run your app
+## 프로젝트 개요
 
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
+**디누리(DiNuri)** 는 시니어 사용자를 위해  
+공공서류, 금융문서 등 복잡한 문서를 **읽고, 요약하고, 들려주는** AI 기반 서비스입니다.
 
-### Android
+> 주요 기능 및 시연 서비스는 곧 공개될 예정입니다.  
+> **🚧 Coming Soon...**
 
-```sh
-# Using npm
-npm run android
+---
 
-# OR using Yarn
-yarn android
-```
+## 팀 구성
 
-### iOS
+| 이름 | 역할 | GitHub |
+|------|------|---------|
+| 🧠 **윤정아** | **AI / FastAPI** | [jjyoon012-git](https://github.com/jjyoon012-git) |
+| 💻 **남기범** | **프론트엔드** | [gbnam453](https://github.com/gbnam453) |
+| 🗃️ **배준상** | **백엔드 (DB)** | [github.com/dinuri-ai](https://github.com/dinuri-ai) |
+| 🎨 **신미리** | **UI/UX** | [github.com/dinuri-ai](https://github.com/dinuri-ai) |
+| 💡 **양서연** | **비즈니스 모델** | [syang5071-tech](https://github.com/syang5071-tech) |
 
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
 
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
+---
 
-```sh
-bundle install
-```
+## Contact
 
-Then, and every time you update your native dependencies, run:
+**Team ReVision**  
+📧 jjyoon012@gmail.com
 
-```sh
-bundle exec pod install
-```
+---
 
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
-
-```sh
-# Using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
-
-This is one way to run your app — you can also build it directly from Android Studio or Xcode.
-
-## Step 3: Modify your app
-
-Now that you have successfully run the app, let's make changes!
-
-Open `App.js` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
-
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
-
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+> _“AI가 문서를 읽고, 이해하고, 들려주는 세상 — DiNuri가 함께합니다.”_  
+> 🧓💬 _For a more inclusive digital world._
