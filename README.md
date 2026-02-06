@@ -35,7 +35,6 @@
 | 🧠 **윤정아** | **AI / FastAPI** | [jjyoon012-git](https://github.com/jjyoon012-git) |
 | 💻 **남기범** | **프론트엔드** | [gbnam453](https://github.com/gbnam453) |
 | 🗃️ **배준상** | **백엔드 (DB)** | [github.com/dinuri-ai](https://github.com/dinuri-ai) |
-| 🎨 **신미리** | **UI/UX** | [github.com/dinuri-ai](https://github.com/dinuri-ai) |
 | 💡 **양서연** | **비즈니스 모델** | [syang5071-tech](https://github.com/syang5071-tech) |
 
 
